@@ -1,0 +1,7 @@
+{
+  "token": "Secret Token",
+  "prefix": ["!"],
+  "playing_status_type": "competing, listening, playing, streaming, watching, custom",
+  "playing_status_text": "Discord bot written with C#",
+  "online_bot_status": "idle, invisible, offline, online, afk, dnd"
+}
